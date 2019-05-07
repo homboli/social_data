@@ -95,10 +95,6 @@ Consider this; 30 good reviews from 30 different people has more credibility tha
 Secondly: If visitors have very good relations with hosts, that means they can arrange bookings around Airbnb. A host may rent out up to 70 days maximum through Airbnb, but you can get around the limit when making booking deals outside Airbnb. Of course, we have no data so support that this happens - but we do have data that hosts can form year-long relations with their guests.
 
 ---
-There is that matter that renting out through Airbnb is more lucrative than renting out to people staying long-term. (we have news as sources for this claim!)
+
+There is that matter that renting out through Airbnb is more lucrative than renting out to people staying long-term. (we have news as sources for this claim!
 We can look into earnings here.
----
-2. Airbnb vs Hotel
-3. Multi-listings
-4. Earnings per listing... and PER HOSTS DUN DUN DUUUN
----
